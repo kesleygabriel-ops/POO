@@ -1,0 +1,15 @@
+#BlueJ class context
+#Tue Oct 27 15:35:47 BRT 2026
+comment0.target=ProdutoRepository
+comment1.params=database
+comment1.target=ProdutoRepository(Database)
+comment2.params=produto
+comment2.target=Produto criar(Produto)
+comment3.params=id
+comment3.target=Produto buscarPorId(int)
+comment4.target=java.util.List listarTodos()
+comment5.params=produto
+comment5.target=boolean atualizar(Produto)
+comment6.params=id
+comment6.target=boolean excluir(int)
+numComments=7
